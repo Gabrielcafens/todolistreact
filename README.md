@@ -5,6 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Project Overview
 
 The main goal of this project is to revisit the basics of creating a CRUD (Create, Read, Update, Delete) functionality in React, implemented through a simple to-do list application.
+
 O principal objetivo deste projeto é revisitar os conceitos básicos de criar funcionalidades CRUD (Create, Read, Update, Delete) em React, implementadas por meio de uma simples aplicação de lista de tarefas.
 
 ## Available Scripts
